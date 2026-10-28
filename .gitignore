@@ -1,0 +1,56 @@
+# OS generated files.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editor directories and files.idea/
+.vscode/
+*.suo
+.ntvs
+*.njsproj
+*.sln
+*.sw?
+
+#SolidWorks
+#Ignore temporary and backup files created by SolidWorks~$*.sldprt
+~$.sldasm
+~$.slddrw
+*.swp
+*.bak
+
+#MATLAB & Simulink
+#Ignore autosaves, compiled binaries, and Simulink cache/build directories
+*.asv
+*.m~
+*.slx.autosave
+*.mdl.autosave
+*.slxc
+slprj/
+sfprj/
+.mex
+*.mexa64
+*.mexw64
+*.mexw32
+*.mexmaci64
+
+# Arduino
+# Ignore compiled binaries and build artifacts
+build/
+*.elf
+*.hex
+*.bin
+*.eep
+*.map
+*.o
+*.a
+
+# Documentation
+# Ignore Office temporary files and standard log files
+~$*.doc*
+~$.xls
+~$.ppt
+*.tmp
+*.log
